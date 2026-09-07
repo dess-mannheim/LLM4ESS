@@ -1,13 +1,17 @@
 The assessment for this course has two components: 
 
-1) Group discussions from week 4 onwards (20%)
+1) Class Participation from week 4 onwards (20%)
 2) Project (80%)
+
+## Class Participation
+
+Week 4 onwards, we will reserve the last 10-15 minutes of each lecture to discuss the assigned readings for that week. You are expected to read these and formulate questions and comments on them. You can also get class participation points by asking *meaningful* questions throughout the lecture or on ILIAS. You can also score points by answering questions from other students. 
 
 ## Project
 
 For the project (80%), there will be three presentations (40%) and a final report (40%).
 
-### Project Report
+### Project Report [due **08.01.2027**]
 
 Each team should deliver a project that is equivalent to the amount of work in a short paper at NLP conferences (4-5 pages + unlimited references and appendices in the [ACL template](https://github.com/acl-org/acl-style-files)). For further instructions, topic ideas and examples of short papers see the [project_ideas.md](project_ideas.md).
 
@@ -32,19 +36,19 @@ _Note: Remember to include author contributions in the final report (after the c
 
 All members of a group do not have to present but all members should be prepared to answer questions. Please make sure to keep to the allocated time.
 
-#### Project Pitches [5 minutes for each team, 5 points]
+#### Project Pitches [13.10.2026, 5 minutes for each team & 5 minutes of Q&A, 5 points]
 
 - Research question and motivation [4]
 - project timeline [1]
 
-#### Midterm Presentation [10 minutes for each team, 10 points]
+#### Midterm Presentation [11-12.11.2026, 10 minutes for each team & 5 minutes of Q&A, 10 points]
 
 - Brief research question and motivation [1]
 - Data and methods [5]
 - Preliminary results [3]
 - Planned next steps [1]
 
-#### Final Presentation [12 minutes for each team but 15 mins of Q/A, 25 points]
+#### Final Presentation [9-10.12.2026, 12 minutes for each team & 15 minutes of Q/A, 25 points]
 
 - Brief research question and motivation [1]
 - Data and methods [2]
