@@ -7,7 +7,7 @@ This course aims to equip students with the theoretical foundations and practica
 
 | Week | Lecture | Readings | Tutorial |
 |------|---------|----------|----------|
-|  1    |Course Introduction & Demystifying LLMs 1: Tokens, Text Representation and Classification     | 1. [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)<br>2. [Can Generative AI improve social science?](https://www.pnas.org/doi/10.1073/pnas.2314021121) | Setup          |
+|  1    |[Course Introduction & Demystifying LLMs 1: Tokens, Text Representation and Classification](https://github.com/dess-mannheim/LLM4ESS/blob/main/Lectures/01_IS%20617%20LLMs4ESS%20Intro.pdf)     | 1. [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)<br>2. [Can Generative AI improve social science?](https://www.pnas.org/doi/10.1073/pnas.2314021121) | Setup          |
 |   2   |Demystifying LLMs 2: Word Embeddings and Transformers        |1. [Word Embeddings](https://lena-voita.github.io/nlp_course/word_embeddings.html)<br>2. [The Intuition Behind How Large Language Models Work, Part I](https://mark-riedl.medium.com/the-intuition-behind-how-large-language-models-work-166cf2fb278a)          | NLP Basics           |
 |    3  |Demystifying LLMs 3: Generative LLMs         | [Language Modeling](https://lena-voita.github.io/nlp_course/language_modeling.html) | HuggingFace         |
 |   4   |Interacting with and Steering LLMs         | 1. [The Intuition Behind How Large Language Models Work, Part II](https://mark-riedl.medium.com/the-intuition-behind-how-large-language-models-work-part-ii-8c6a127a4a99)<br>2. [Prompt Engineering](https://en.wikipedia.org/wiki/Prompt_engineering)         |  LLM Inference        |
