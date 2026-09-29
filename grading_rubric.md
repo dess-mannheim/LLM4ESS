@@ -30,7 +30,9 @@ you will apply to assess your research question(s). Carefully document all refer
 
 - **Conclusion and Discussion**: Evaluate answers to the question and their reliability. Identify limitations and alternative explanations for your results. [5]
 
-_Note: Remember to include author contributions in the final report (after the conclusion). This does not count towards the page limit and should be as detailed as possible. Make sure to note which tasks have been assisted by AI tools (including identifying the tools)._
+Note: Remember to include author contributions in the final report (after the conclusion). This does not count towards the page limit and should be as detailed as possible up to a maximum of 1 page. Check out the [CRediT guidelines](https://www.elsevier.com/researcher/author/policies-and-guidelines/credit-author-statement) and [examples](https://www.epj.org/images/stories/faq/examples-of-author-contributions.pdf) to see how contribution statements should be written. Please be aware that **all** team members are responsible and accountable for the project and report. If we find major problems in the report, e.g., plagiarism or fundamental errors, the entire team will be held responsible, not just the person who was in charge of that section.
+
+Make sure to note which tasks have been assisted by AI tools (including identifying the tools) at the end of the report.
 
 ### Project Presentations 
 
